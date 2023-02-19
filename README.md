@@ -40,7 +40,7 @@ pip install -r requirements.txt
 3. Insert your data:
 
 ```
-python run.py
+city and price
 ```
 
 4. Launch the script:
